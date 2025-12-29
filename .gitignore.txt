@@ -1,0 +1,5 @@
+/uploads/
+/uploads/reports/
+/config/
+/.env
+/db.php
