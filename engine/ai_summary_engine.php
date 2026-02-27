@@ -1,9 +1,4 @@
 <?php
-
-/**
- * Generate a simulated AI health summary
- * (Reliable for academic / demo use – no external API required)
- */
 function generateHealthSummary(array $history, string $city = "India"): string
 {
     if (empty($history)) {
